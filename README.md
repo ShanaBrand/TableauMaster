@@ -1,3 +1,3 @@
-# A Study of NYC CitiBikes using Tableau 
+# A STUDY OF NYC CitiBike ACTIVITIES using TABLEAU 
 
-## NYC CitiBike from January 2018 to September 2018![citibikes](citibike_nyc.png)
+## NYC CitiBike activities from January 2018 to September 2018![citibikes](citibike_nyc.png)
