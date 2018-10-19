@@ -1,3 +1,3 @@
-# Tableau Analytics Citi Bike Analytics
+# A Study of NYC CitiBikes using Tableau 
 
-## A Study of NYC CitiBike January 2018 to September 2018![citibikes](citibike_nyc.png)
+## NYC CitiBike from January 2018 to September 2018![citibikes](citibike_nyc.png)
